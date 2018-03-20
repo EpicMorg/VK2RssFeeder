@@ -1,0 +1,10 @@
+﻿{
+  "CheckInterval": 1,
+  "Token": "http://api.vk.com/blank.html#access_token=241c4c2a1a864eabe461c8fe893ff2c89178b21d7482878cb5dc7083c2201766756004b2edc1c4ba12c9f&expires_in=0&user_id=8878040",
+  "Groups": [ "web_digger" ],
+  "ListenAddress": "http://127.0.0.1:31337/",
+  "RefreshPosts": 10,
+  "HistoryPosts" : 100,
+  "FetchPics" : 0,
+  "AdminOnly": 0 
+}
